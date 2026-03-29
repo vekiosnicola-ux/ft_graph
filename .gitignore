@@ -1,0 +1,16 @@
+# Obsidian metadata
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/smart-connections/.smart-env/
+.smart-env/
+
+# System files
+.DS_Store
+.trash/
+
+# Python leftovers
+*.py
+__pycache__/
+
+# Large Subject PDFs (optional, but good for repo size)
+# 04_Projects/Rush02/it.subject.pdf

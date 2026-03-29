@@ -1,0 +1,10 @@
+{
+  "enableLineNumbers": true,
+  "enableCodeblockTitle": true,
+  "enableHighlight": true,
+  "enableCopyButton": true,
+  "theme": "monokai",
+  "activeLineHighlight": true,
+  "wrapLines": false,
+  "defaultLanguage": "c"
+}
