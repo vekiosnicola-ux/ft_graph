@@ -89,3 +89,7 @@ void multiplication_table(void) {
 - ❌ Forgetting braces for multi-statement loops (only first statement executes in loop)
 - ❌ Not initializing loop variable before first check
 - ❌ Accidental trailing semicolon: `while (cond);` creates empty loop body
+
+
+---
+← [[01_Concepts_Index|Back to 01_Concepts Index]]

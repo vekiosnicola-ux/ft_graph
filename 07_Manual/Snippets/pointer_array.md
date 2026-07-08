@@ -30,3 +30,6 @@ int main () {
     std::cout << test1() << std::endl;
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

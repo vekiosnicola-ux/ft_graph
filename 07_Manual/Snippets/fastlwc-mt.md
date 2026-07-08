@@ -199,3 +199,6 @@ int main(int argc, char *argv[])
 }
 
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

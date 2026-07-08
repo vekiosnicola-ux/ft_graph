@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstadd_front
 
-## Concept
+## What it does
 Adds a new element to the beginning of a linked list.
 
 ## Function Signature

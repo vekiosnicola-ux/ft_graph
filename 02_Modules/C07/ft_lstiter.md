@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstiter
 
-## Concept
+## What it does
 Applies a function `f` to the content of each element in the list (traversal).
 
 ## Function Signature

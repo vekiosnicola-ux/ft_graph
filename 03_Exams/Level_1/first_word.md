@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Displays the first word of a string passed as argument, followed by a newline. A word is a sequence of non-space/non-tab characters. Leading spaces/tabs are skipped.
 
-## Insight
+## The Insight
 This teaches you how to skip unwanted characters and then capture a sequence of wanted characters. The key insight is a two-phase approach:
 1. Phase 1: Skip leading spaces/tabs
 2. Phase 2: Print characters until you hit a space/tab or end of string
@@ -99,5 +97,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[rev_print]] - Reverse string traversal
 - [[ft_putstr]] - Basic string output
+
+What does `first_word` do?
+::
+Displays the first word of a string passed as argument, followed by a newline. A word is a sequence of non-space/non-tab characters. Leading spaces/tabs are skipped.
 
 (End of file - 90 lines)

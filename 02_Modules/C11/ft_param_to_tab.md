@@ -113,3 +113,7 @@ t_stock_str *ft_param_to_tab(int ac, char **av)  // ac=arg count, av=arg vector
 ## Related Concepts
 - 01_Concepts/structures|Structures
 - 01_Concepts/malloc|malloc/free
+
+
+---
+← [[C11_Index|Back to C11 Index]]

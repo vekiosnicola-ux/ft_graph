@@ -1,9 +1,10 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - stack
   - parsing
   - white
 ---
+
 
 
 # brackets
@@ -80,3 +81,8 @@ int check_brackets(char *s){
 - [[rpn_calc]] - stack-based calculator
 - [[brainfuck]] - interpreter pattern
 - EXAMS INDEX|Exam INDEX
+
+
+What does `brackets` do?
+::
+Checks if brackets (), [], {} are balanced and properly nested. Prints "OK\n" or "Error\n"

@@ -19,3 +19,6 @@ int main(void) {
     printf("%d\n", f("123abcdefghijklm NOPQrstuvWxyz"));
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

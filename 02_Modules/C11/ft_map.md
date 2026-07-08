@@ -66,3 +66,7 @@ int *ft_map(int *tab, int length, int (*f)(int))  // Creates new array with tran
 ## Related Concepts
 - 01_Concepts/functionPointers|Function Pointers
 - 01_Concepts/malloc|malloc/free
+
+
+---
+← [[C11_Index|Back to C11 Index]]

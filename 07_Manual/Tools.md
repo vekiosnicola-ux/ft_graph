@@ -1178,3 +1178,7 @@ Go back to internet and you will see that you can submit a pull request.
 **Antonin GAVREL**
 
 *Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/antonin-gavrel-086b2618/)*
+
+
+---
+← [[Manual_Index|Back to 07_Manual Index]]

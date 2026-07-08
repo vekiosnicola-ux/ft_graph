@@ -116,3 +116,7 @@ What file descriptor is stdout?::1
 printf vs write: What's the key difference?::printf ha ==buffering==, write no; printf è libreria, write è syscall
 
 Cosa significa "syscall"?::Una ==richiesta al kernel== del sistema operativo per operazioni di basso livello
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

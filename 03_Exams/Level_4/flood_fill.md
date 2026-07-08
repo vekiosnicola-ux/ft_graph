@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - recursion
   - algorithm
   - white
 ---
+
 
 
 # flood_fill
@@ -67,3 +68,8 @@ void fill(char **area, t_point size, t_point vec, char to_fill)
 - [[sort_int_tab]] - sorting algorithm
 - [[brainfuck]] - more recursion practice
 - EXAMS INDEX|Exam INDEX
+
+
+What does `flood_fill` do?
+::
+Recursive flood fill on 2D grid. Fills contiguous area starting from a point.

@@ -1,10 +1,11 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
   - cipher
 Level: 2
 Topic: String Manipulation
 Exercise: alpha_mirror
 ---
+
 
 
 # alpha_mirror
@@ -66,5 +67,9 @@ while (str[i])                                     // Loop until null terminator
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `alpha_mirror` do?
+::
+Mirrors the alphabet: a->z, b->y, c->x, etc. Preserves the case of each letter.
 
 (End of file - total 71 lines)

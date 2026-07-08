@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -111,3 +111,7 @@ char *ft_itoa(int nbr)
 
 ## Related
 - C00 ex07 ft_putnbr
+
+
+---
+← [[C06_Index|Back to C06 Index]]

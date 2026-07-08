@@ -71,3 +71,6 @@ char	*ft_itoa(int n)
 }
 
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

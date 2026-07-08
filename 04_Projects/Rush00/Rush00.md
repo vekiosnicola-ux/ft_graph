@@ -278,3 +278,7 @@ Rush00/
 - C00/ex04 - ft_is_negative (basic conditional)
 - C00/ex05 - ft_print_comb (nested loops)
 - C00/ex06 - ft_print_comb2 (nested loops pattern)
+
+
+---
+← [[Rush00_Index|Back to Rush00 Index]]

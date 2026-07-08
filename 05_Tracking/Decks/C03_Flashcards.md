@@ -34,3 +34,7 @@ Risposta::Otherwise buffer overflow - undefined behavior
 ## String search
 Domanda::How traverse to find substring?
 Risposta::Nested loops - outer for haystack, inner for needle match
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

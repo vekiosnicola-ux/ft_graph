@@ -1,10 +1,11 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
   - memorization
 Level: 2
 Topic: Algorithms
 Exercise: inter
 ---
+
 
 
 # inter
@@ -77,5 +78,9 @@ write(1, "\n", 1);                              // Print newline at end of outpu
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `inter` do?
+::
+Prints characters that appear in BOTH str1 and str2, with no duplicates, followed by newline.
 
 (End of file - total 74 lines)

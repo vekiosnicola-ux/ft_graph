@@ -49,3 +49,6 @@ int main(void) {
 
 // gcc complex.c -lm && ./a.out
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Displays the last command-line argument followed by a newline. If no arguments are provided, displays nothing.
 
-## Insight
+## The Insight
 Similar to aff_first_param, but you need to find the LAST argument. The key insight is that av[ac-1] is the last argument (since av[ac] is NULL, av[0] is the program name).
 
 This exercise teaches you that argv is an array where the last valid index is ac-1.
@@ -86,5 +84,9 @@ int main(int ac, char **av)  // Main: ac=count, av=array of argument strings
 ## Related Exercises
 - [[aff_first_param]] - Access first argument instead of last
 - [[hello]] - Basic write output
+
+What does `aff_last_param` do?
+::
+Displays the last command-line argument followed by a newline. If no arguments are provided, displays nothing.
 
 (End of file - 76 lines)

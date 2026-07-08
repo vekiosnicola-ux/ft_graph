@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -36,6 +36,16 @@ git log --format=%H -n 5
 | `%h` | Commit hash (short) |
 | `%an` | Author name |
 | `%s` | Subject (commit message) |
+
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `#!/bin/sh` | The shebang: tells the OS to execute this script using the `sh` shell |
+| 2 | `git log` | Git command to display the commit history |
+| 3 | `--format=%H` | Custom formatting flag: `%H` outputs only the full 40-character commit hash |
+| 4 | `-n 5` | Limit the output to only the most recent 5 commits |
 
 ## Common Traps
 - ❌ Forgetting to make executable (`chmod +x`)

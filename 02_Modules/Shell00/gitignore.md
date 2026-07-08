@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -36,6 +36,16 @@ git ls-files --ignored --exclude-standard
 node_modules/  # Ignore entire directories
 ```
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `#!/bin/bash` | The shebang: tells the OS to execute this script using the `bash` shell |
+| 2 | `git ls-files` | Git command to list files in the repository |
+| 3 | `--ignored` | Show only ignored files |
+| 4 | `--exclude-standard` | Respect the standard ignore rules (e.g., `.gitignore`) |
+
 ## Common Traps
 - ❌ Using `--others` without understanding its effect
 - ❌ Not applying `--exclude-standard` for proper gitignore behavior
@@ -48,3 +58,7 @@ node_modules/  # Ignore entire directories
 ## Propedeuticity
 **Prerequisites:** Git basics
 **Unlocks:** Managing git repositories effectively
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

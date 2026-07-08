@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - math
   - factors
   - white
 ---
+
 
 
 # fprime
@@ -74,3 +75,8 @@ void fprime(int nbr)
 - [[sort_int_tab]] - sorting
 - [[ft_itoa]] - number to string
 - EXAMS INDEX|Exam INDEX
+
+
+What does `fprime` do?
+::
+Prints prime factors of a number separated by '*'. e.g. 12 -> 2*2*3

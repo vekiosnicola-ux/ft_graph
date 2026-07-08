@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - algorithm
   - sorting
   - white
 ---
+
 
 
 # sort_int_tab
@@ -68,3 +69,8 @@ void ft_sort_int_tab(int *tab, int size)
 - [[sort_list]] - linked list sorting
 - [[fprime]] - prime factors
 - EXAMS INDEX|Exam INDEX
+
+
+What does `sort_int_tab` do?
+::
+Sorts integer array in ascending order using bubble sort.

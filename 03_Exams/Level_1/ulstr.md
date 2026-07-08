@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Toggles the case of each letter in the string passed as argument: uppercase becomes lowercase, lowercase becomes uppercase. Non-alphabetic characters are unchanged. The result is printed followed by a newline.
 
-## Insight
+## The Insight
 This teaches you how to toggle case using ASCII properties. The key insight is:
 1. For each character, check if it's a letter
 2. If uppercase (A-Z): add 32 to make it lowercase
@@ -110,5 +108,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 - [[rot_13]] - Character transformation
 - [[rotone]] - Rotating characters by 1
 - [[search_and_replace]] - Character replacement
+
+What does `ulstr` do?
+::
+Toggles the case of each letter in the string passed as argument: uppercase becomes lowercase, lowercase becomes uppercase. Non-alphabetic characters are unchanged. The result is printed followed by a newline.
 
 (End of file - 101 lines)

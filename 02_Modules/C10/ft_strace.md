@@ -97,3 +97,7 @@ int main(int argc, char **argv)  // Program entry point
 - Forgetting to `wait()` for child.
 - Not using `orig_rax` for syscall number (rax is return value).
 - Memory address formatting issues.
+
+
+---
+← [[C10_Index|Back to C10 Index]]

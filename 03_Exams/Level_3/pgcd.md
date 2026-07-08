@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - euclidean-algorithm
   - white
 Level: 3
 Topic: Algorithms
 Exercise: pgcd
 ---
+
 
 
 # pgcd
@@ -70,5 +71,9 @@ int main(int ac, char **av)                      // Main: argument count and arg
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `pgcd` do?
+::
+Prints the Greatest Common Divisor of two numbers passed as command-line arguments, followed by newline.
 
 (End of file - total 49 lines)

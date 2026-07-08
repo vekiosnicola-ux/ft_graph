@@ -72,3 +72,6 @@ andeverythin   the
 
 */
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

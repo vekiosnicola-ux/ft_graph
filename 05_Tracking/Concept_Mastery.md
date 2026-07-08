@@ -1,13 +1,9 @@
 ---
-tags: [flashcard]
+tags: [Tracking, brown, flashcard]
 date: 2026-03-29
 status: complete
 ---
 # Concept Mastery Tracker
-
----
-tags: [Tracking, brown]
----
 
 ## Core Concepts
 

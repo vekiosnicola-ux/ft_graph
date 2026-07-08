@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - whitespace-handling
   - white
 Level: 3
 Topic: String Manipulation
 Exercise: expand_str
 ---
+
 
 
 # expand_str
@@ -77,5 +78,9 @@ write(1, "\n", 1);                             // Print final newline
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `expand_str` do?
+::
+Same as epur_str but separates words with EXACTLY 3 spaces (instead of 1).
 
 (End of file - total 46 lines)

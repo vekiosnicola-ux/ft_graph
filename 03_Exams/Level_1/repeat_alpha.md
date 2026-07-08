@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 For each letter in the string passed as argument, prints the letter repeated as many times as its position in the alphabet (a=1, b=2, ..., z=26). Non-alphabetic characters are printed once. The result is followed by a newline.
 
-## Insight
+## The Insight
 This teaches you how to map characters to repetition counts based on their alphabet position. The key insight is:
 1. For each character, check if it's a letter
 2. If uppercase (A-Z): position = (c - 'A' + 1)
@@ -140,5 +138,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[rot_13]] - Character transformation
 - [[ulstr]] - Character case manipulation
+
+What does `repeat_alpha` do?
+::
+For each letter in the string passed as argument, prints the letter repeated as many times as its position in the alphabet (a=1, b=2, ..., z=26). Non-alphabetic characters are printed once. The result is followed by a newline.
 
 (End of file - 131 lines)

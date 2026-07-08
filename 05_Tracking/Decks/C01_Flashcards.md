@@ -88,3 +88,7 @@ What is array decay?::Quando un array viene passato a una funzione, decade a ==p
 What does ft_ultimate_div_mod do?::Esegue divisione E modulo, memorizzando entrambi i risultati nelle variabili originali via puntatori
 
 ft_ultimate_div_mod: Why store original *a before overwriting?::Perché `*a = *a / *b` perderebbe il valore originale necessario per calcolare il resto
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

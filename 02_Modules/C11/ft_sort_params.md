@@ -103,3 +103,7 @@ int main(int argc, char **argv)  // Program entry: argc=count, argv=string array
 - ❌ Forgetting to skip `argv[0]` (program name).
 - ❌ Not comparing correctly with `ft_strcmp`.
 - ❌ Not printing newline after each argument.
+
+
+---
+← [[C11_Index|Back to C11 Index]]

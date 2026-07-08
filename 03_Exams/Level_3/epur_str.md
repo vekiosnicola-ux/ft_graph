@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - whitespace-handling
   - white
 Level: 3
 Topic: String Manipulation
 Exercise: epur_str
 ---
+
 
 
 # epur_str
@@ -83,5 +84,9 @@ write(1, "\n", 1);                             // Print final newline
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `epur_str` do?
+::
+Takes a string, skips leading/trailing spaces, prints words separated by exactly ONE space.
 
 (End of file - total 50 lines)

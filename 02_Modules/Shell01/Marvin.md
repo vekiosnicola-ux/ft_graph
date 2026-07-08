@@ -29,3 +29,7 @@ Uses shell loops and string manipulation to create formatted output.
 ## Propedeuticity
 **Prerequisites:** Shell00-01 basics
 **Unlocks:** Complex output formatting
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

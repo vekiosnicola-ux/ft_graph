@@ -1,0 +1,97 @@
+.headerfloattop {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 0.5em;
+  background-color: var(--background-secondary);
+  border: var(--border-width) solid var(--background-modifier-border);
+}
+
+.LLMSideView .messageContainer {
+  display: inline;
+}
+
+.LLMSideView .message {
+  display: block;
+  margin: 0.25em 0;
+  max-height: 10em;
+  overflow-y: hidden;
+  padding: 0;
+  transition: background-color 0.1s ease;
+}
+
+.LLMSideView .message:hover {
+  background-color: var(--background-modifier-hover);
+  cursor: pointer;
+}
+
+/* User-specific alignments */
+.LLMSideView .messageContainer.user {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.LLMSideView .messageContainer.user .message {
+  background-color: var(--background-primary);
+  border: var(--border-width) solid var(--background-modifier-border);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 var(--radius-xl);
+  max-width: 90%;
+  padding: 0 1em;
+  margin-left: auto;
+  margin-right: 0;
+  text-align: left;
+}
+
+.LLMSideView .messageContainer.user .message:hover {
+  background-color: var(--background-secondary-hover);
+}
+
+.LLMSideView .messageContainer .clickable-icon {
+  display: inline-block;
+  padding: 0.5em;
+}
+
+.codePreview {
+  width: 100%;
+  min-height: 10em;
+  resize: vertical;
+}
+
+/* Diff styles for EditReview */
+.diff-container {
+  font-family: var(--font-monospace);
+  border: var(--border-width) solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  padding: 1em;
+  background-color: var(--background-secondary);
+  max-height: 20em;
+  overflow-y: auto;
+}
+
+.diff-container div {
+  white-space: pre-wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.diff-removed {
+  background-color: rgba(255, 63, 63, 0.2);
+}
+
+.diff-added {
+  background-color: rgba(63, 255, 63, 0.2);
+}
+
+.diff-equal {
+  background-color: transparent;
+  /* normal */
+}
+
+.diff-hunk {
+  color: var(--text-muted);
+  font-weight: bold;
+}
+
+.vertical-tab-header-group-items[data-section='community-plugins'] .vertical-tab-nav-item-icon {
+  display: block;
+}

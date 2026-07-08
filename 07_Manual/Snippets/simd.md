@@ -305,3 +305,6 @@ static inline int count_words(simd_vector vec, wcount_state *state)
  // SIMD_H_
 
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

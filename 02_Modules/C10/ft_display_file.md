@@ -93,3 +93,7 @@ int main(int argc, char **argv)  // argc = arg count, argv = array of argument s
 ## Related Concepts
 - 01_Concepts/fileDescriptors|File Descriptors
 - 01_Concepts/read_write_syscalls|read()/write() syscalls
+
+
+---
+← [[C10_Index|Back to C10 Index]]

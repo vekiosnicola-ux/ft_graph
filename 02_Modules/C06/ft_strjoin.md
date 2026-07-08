@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -92,3 +92,7 @@ char *ft_strjoin(int size, char **strs, char *sep)
 ## Related
 - ex02 ft_concat_params
 - ex04 ft_strtrim
+
+
+---
+← [[C06_Index|Back to C06 Index]]

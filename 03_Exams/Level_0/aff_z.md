@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Finds and displays the first occurrence of the letter 'z' in a string passed as argument. If no 'z' is found, displays nothing.
 
-## Insight
+## The Insight
 This is identical to aff_a but searching for 'z' instead of 'a'. It reinforces the search pattern and character comparison. The key insight is that you're searching for a specific character and stopping immediately when found.
 
 This follows the "Invisible Skeleton" pattern with an early return when the target is found.
@@ -95,5 +93,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 
 ## Related Exercises
 - [[aff_a]] - Identical but searching for 'a'
+
+What does `aff_z` do?
+::
+Finds and displays the first occurrence of the letter 'z' in a string passed as argument. If no 'z' is found, displays nothing.
 
 (End of file - 85 lines)

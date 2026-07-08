@@ -34,3 +34,7 @@ Risposta::ssh-keygen -t rsa -b 4096 -C "email"
 ## git ls-files
 Domanda::How list ignored files?
 Risposta::git ls-files --ignored --exclude-standard
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

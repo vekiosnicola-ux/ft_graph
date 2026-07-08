@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: ft_atoi
 ---
+
 
 
 # ft_atoi
@@ -105,5 +106,9 @@ int ft_atoi(char *str)                             // Function: takes string, re
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_atoi` do?
+::
+Converts a string to an integer. The string may have leading whitespace, an optional sign (+ or -), and then digits. The conversion stops at the first non-digit character.
 
 (End of file - total 112 lines)

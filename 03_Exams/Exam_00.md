@@ -1,13 +1,11 @@
 ---
-tags: [flashcard]
+tags: [Exams, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
 # Exam 00 - Overview
 
----
-tags: [Exams, magenta]
----
+
 
 
 ## Structure
@@ -77,3 +75,11 @@ TABLE file.name as Exercise
 FROM "03_Exams/Level_0" OR "03_Exams/Level_1"
 SORT file.name ASC
 ```
+
+
+---
+← [[03_Exams_Index|Back to 03_Exams Index]]
+
+
+## Common Traps
+- ❌ [Add traps here]

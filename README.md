@@ -30,3 +30,7 @@ Building a knowledge system is part of the 42 "Learning to Learn" mantra. If thi
 
 ---
 *Created by [Nicola Vekios](https://github.com/vekiosnicola-ux) | Part of the 42 Network.*
+
+
+---
+← [[._Index|Back to . Index]]

@@ -83,3 +83,6 @@ void merge_sort(int n, int a[n], int x, int b[x], int y, int c[y])
     merge_sort(n, a, n/2, b, (n+1)/2, c);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

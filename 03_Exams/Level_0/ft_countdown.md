@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Prints a countdown from 99 to 0, each number followed by a newline.
 
-## Insight
+## The Insight
 This teaches you how to loop with a counter and print numbers. The key insight is that you need to:
 1. Start at 99
 2. Loop while >= 0
@@ -102,5 +100,9 @@ void ft_countdown(void)   // Main countdown function
 
 ## Related Exercises
 - [[ft_print_numbers]] - Forward counting from 0 to 9
+
+What does `ft_countdown` do?
+::
+Prints a countdown from 99 to 0, each number followed by a newline.
 
 (End of file - 92 lines)

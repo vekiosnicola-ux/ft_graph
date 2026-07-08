@@ -1,9 +1,10 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
 Level: 3
 Topic: Algorithms
 Exercise: add_prime_sum
 ---
+
 
 
 # add_prime_sum
@@ -93,5 +94,9 @@ int main(int ac, char **av)                      // Main: argument count and arg
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `add_prime_sum` do?
+::
+Sums all prime numbers from 2 to n, prints the sum.
 
 (End of file - total 54 lines)

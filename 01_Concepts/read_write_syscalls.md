@@ -74,3 +74,7 @@ int safe_write(int fd, const void *buf, size_t count) {
 - ❌ Not checking return values for errors
 - ❌ Assuming read fills the buffer (it may return fewer bytes than requested)
 - ❌ Confusing direction: read goes INTO buffer, write comes FROM buffer
+
+
+---
+← [[01_Concepts_Index|Back to 01_Concepts Index]]

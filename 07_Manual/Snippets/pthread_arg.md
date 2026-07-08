@@ -85,3 +85,6 @@ void *sort(void *ptr) {
     return (void *)1; // to compile with -Wall -Wextra -Werror
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

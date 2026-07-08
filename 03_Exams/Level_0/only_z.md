@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Counts the number of 'z' characters in a string passed as argument and prints that count followed by a newline.
 
-## Insight
+## The Insight
 This is identical to only_a but counting 'z' instead of 'a'. It reinforces the counting pattern with a condition. The key insight is that you need to:
 1. Iterate through the entire string using the "Invisible Skeleton"
 2. For each character, check if it matches 'z' and increment a counter
@@ -117,5 +115,9 @@ int main(int ac, char **av)  // Main receives argument count and vector
 ## Related Exercises
 - [[only_a]] - Identical but counting 'a'
 - [[ft_strlen]] - String iteration foundation
+
+What does `only_z` do?
+::
+Counts the number of 'z' characters in a string passed as argument and prints that count followed by a newline.
 
 (End of file - 101 lines)

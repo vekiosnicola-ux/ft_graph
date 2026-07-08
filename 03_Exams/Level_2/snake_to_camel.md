@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: snake_to_camel
 ---
+
 
 
 # snake_to_camel
@@ -91,5 +92,9 @@ camel[camel_len] = '\0';                         // Null-terminate the result st
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `snake_to_camel` do?
+::
+Converts snake_case to camelCase. Removes '_' and uppercases the following letter.
 
 (End of file - total 81 lines)

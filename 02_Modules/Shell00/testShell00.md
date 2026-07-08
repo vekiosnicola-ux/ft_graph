@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -29,6 +29,14 @@ tar -cf testShell00.tar testShell00
 | `444` | read | read | read |
 | `r--r--r--` | r | r | r |
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `touch testShell00` | Creates an empty file named `testShell00` (or updates its timestamp if it exists) |
+| 2 | `chmod 444 testShell00` | Changes the permissions so that Owner (4), Group (4), and Others (4) all only have Read rights |
+
 ## Common Traps
 - ❌ Using wrong permission number (e.g., 777)
 - ❌ Forgetting to add file to tar
@@ -41,3 +49,7 @@ tar -cf testShell00.tar testShell00
 ## Propedeuticity
 **Prerequisites:** None
 **Unlocks:** Understanding file attributes and archives
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

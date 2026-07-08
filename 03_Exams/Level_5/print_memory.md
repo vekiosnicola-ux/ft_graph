@@ -1,9 +1,10 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - memory
   - hex
   - white
 ---
+
 
 
 # print_memory
@@ -98,3 +99,8 @@ void print_memory(const void *addr, size_t size){
 - [[ft_itoa_base]] - hex conversion
 - [[options]] - bit manipulation
 - EXAMS INDEX|Exam INDEX
+
+
+What does `print_memory` do?
+::
+Prints hex dump of memory like hexdump. For each 16-byte chunk: address | hex bytes | ascii chars.

@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - recursion
   - white
 Level: 3
 Topic: Algorithms
 Exercise: paramsum
 ---
+
 
 
 # paramsum
@@ -77,5 +78,9 @@ int main(int ac, char **av)                      // Main: argument count and arg
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `paramsum` do?
+::
+Prints the number of additional arguments passed (`argc - 1`), followed by newline. Must handle multi-digit numbers.
 
 (End of file - total 54 lines)

@@ -34,3 +34,7 @@ echo "$1" | rev
 ## Propedeuticity
 **Prerequisites:** Shell01
 **Unlocks:** String transformation
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

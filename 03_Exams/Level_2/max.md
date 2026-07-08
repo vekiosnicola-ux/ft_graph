@@ -1,10 +1,11 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
   - maximum
 Level: 2
 Topic: Array Manipulation
 Exercise: max
 ---
+
 
 
 # max
@@ -67,5 +68,9 @@ int max(int *tab, int size)                     // Function: takes int pointer a
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `max` do?
+::
+Returns the maximum value in an array of integers.
 
 (End of file - total 78 lines)

@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: wdmatch
 ---
+
 
 
 # wdmatch
@@ -76,5 +77,9 @@ write(1, "\n", 1);                              // Print final newline
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `wdmatch` do?
+::
+Checks if characters from str1 can form str2 IN ORDER. If yes, prints str1. If no, prints nothing. Both followed by newline.
 
 (End of file - total 73 lines)

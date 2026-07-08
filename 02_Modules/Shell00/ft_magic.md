@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -50,3 +50,7 @@ Unix `file` command uses magic numbers/patterns to identify file types. The magi
 ## Propedeuticity
 **Prerequisites:** Understanding of bytes and file structure
 **Unlocks:** File format analysis
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

@@ -35,3 +35,7 @@ Risposta::p[i] - same thing!
 ## String literals
 Domanda::Can you modify a string literal?
 Risposta::NO - undefined behavior. String literals are read-only.
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

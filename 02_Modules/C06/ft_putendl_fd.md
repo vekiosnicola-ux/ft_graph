@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -47,3 +47,7 @@ void ft_putendl_fd(char *s, int fd) // Function takes a string and file descript
 - ex07 ft_putchar_fd
 - ex08 ft_putstr_fd
 - ex10 ft_putnbr_fd
+
+
+---
+← [[C06_Index|Back to C06 Index]]

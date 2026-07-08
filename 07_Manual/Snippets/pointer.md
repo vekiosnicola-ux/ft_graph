@@ -27,3 +27,6 @@ int main(void) {
 }
 
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

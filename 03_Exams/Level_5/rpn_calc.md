@@ -1,9 +1,10 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - stack
   - calculator
   - white
 ---
+
 
 
 # rpn_calc
@@ -104,3 +105,8 @@ void rpn_calc(char *s){
 - [[brackets]] - stack parsing
 - [[brainfuck]] - interpreter pattern
 - EXAMS INDEX|Exam INDEX
+
+
+What does `rpn_calc` do?
+::
+Reverse Polish Notation calculator. "3 4 +" = 7. Operators: + - * / %

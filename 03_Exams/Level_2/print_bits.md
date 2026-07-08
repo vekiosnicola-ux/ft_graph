@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: Bit Manipulation
 Exercise: print_bits
 ---
+
 
 
 # print_bits
@@ -63,5 +64,9 @@ unsigned char print_bits(unsigned char byte)     // Function: takes byte, return
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `print_bits` do?
+::
+Takes a byte (unsigned char) and prints its binary representation (8 bits), from bit 7 (leftmost) to bit 0 (rightmost).
 
 (End of file - total 67 lines)

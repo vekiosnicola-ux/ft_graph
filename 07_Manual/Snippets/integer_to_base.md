@@ -37,3 +37,6 @@ int main(void) {
     putchar('\n');
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

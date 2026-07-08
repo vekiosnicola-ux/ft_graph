@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Applies the ROT13 cipher to a string passed as argument and prints the result, followed by a newline. ROT13 shifts each letter by 13 positions in the alphabet (wrapping around), preserving case. Non-alphabetic characters are unchanged.
 
-## Insight
+## The Insight
 This teaches you character transformation with wrapping. The key insight is:
 1. For each character, check if it's a letter
 2. If uppercase (A-Z): shift by 13, wrapping from Z to A
@@ -131,5 +129,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[rotone]] - Shift by 1 instead of 13
 - [[ulstr]] - Case transformation without shifting
+
+What does `rot_13` do?
+::
+Applies the ROT13 cipher to a string passed as argument and prints the result, followed by a newline. ROT13 shifts each letter by 13 positions in the alphabet (wrapping around), preserving case. Non-alphabetic characters are unchanged.
 
 (End of file - 124 lines)

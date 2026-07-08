@@ -82,3 +82,7 @@ void ft_show_tab(struct s_stock_str *par)  // par = pointer to array of structur
 ## Related Concepts
 - 01_Concepts/structures|Structures
 - 01_Concepts/write_syscall|write() syscall
+
+
+---
+← [[C11_Index|Back to C11 Index]]

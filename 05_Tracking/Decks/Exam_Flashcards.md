@@ -34,3 +34,7 @@ Risposta::Without it, infinite recursion (stack overflow)
 ## fizzbuzz 15
 Domanda::What does fizzbuzz print for 15?
 Risposta::fizzbuzz (divisible by both 3 AND 5)
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

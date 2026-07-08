@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstlast
 
-## Concept
+## What it does
 Returns a pointer to the last element of a linked list.
 
 ## Function Signature

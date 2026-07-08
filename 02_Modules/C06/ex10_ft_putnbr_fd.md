@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -63,3 +63,7 @@ void ft_putnbr_fd(int n, int fd) // Function takes an integer and a file descrip
 - ex07 ft_putchar_fd
 - ex08 ft_putstr_fd
 - ex09 ft_putendl_fd
+
+
+---
+← [[C06_Index|Back to C06 Index]]

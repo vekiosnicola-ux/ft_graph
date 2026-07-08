@@ -417,3 +417,7 @@ Total persistent allocations: 1 (the dict buffer)
 Total temporary allocations: ~10-20 per number (all freed immediately)
 Memory leaks: 0
 ```
+
+
+---
+← [[Rush02_Index|Back to Rush02 Index]]

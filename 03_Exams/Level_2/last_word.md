@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: last_word
 ---
+
 
 
 # last_word
@@ -64,5 +65,9 @@ write(1, "\n", 1);                              // Print final newline
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `last_word` do?
+::
+Displays the last word of a string (last sequence of non-space/non-tab characters). Always prints newline.
 
 (End of file - total 65 lines)

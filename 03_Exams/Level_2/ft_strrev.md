@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: ft_strrev
 ---
+
 
 
 # ft_strrev
@@ -68,5 +69,9 @@ while (i < j)                                     // While start hasn't crossed 
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_strrev` do?
+::
+Reverses a string in place using two pointers (start and end).
 
 (End of file - total 71 lines)

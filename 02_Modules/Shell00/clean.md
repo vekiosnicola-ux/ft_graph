@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -37,6 +37,17 @@ find .                           # Start from current directory
 | `*~` | Ends with tilde | `file.txt~`, `main.c~` |
 | `#*#` | Starts & ends with # | `#file#`, `##temp##` |
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `find .` | Start a recursive search from the current directory `.` |
+| 2 | `-type f` | Filter the search to include only normal files (not directories) |
+| 3 | `\( -name '*~' -o -name '#*#' \)` | Match files ending with `~` (Emacs backups) OR starting/ending with `#` |
+| 4 | `-print` | Print the path of the files that match |
+| 5 | `-delete` | Delete the matching files directly |
+
 ## Common Traps
 - ❌ Forgetting parentheses `\( \)` for proper grouping
 - ❌ Putting `-delete` before `-print`
@@ -49,3 +60,7 @@ find .                           # Start from current directory
 ## Propedeuticity
 **Prerequisites:** Basic shell navigation
 **Unlocks:** Complex file operations with find
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

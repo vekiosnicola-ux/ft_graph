@@ -36,3 +36,6 @@ int main(int ac, char **av)
     printf("%s\n", string_from_file(ifp));
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

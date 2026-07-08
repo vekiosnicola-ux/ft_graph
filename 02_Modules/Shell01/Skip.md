@@ -29,3 +29,7 @@ Uses `grep -v` or `sed` to filter out unwanted lines.
 ## Propedeuticity
 **Prerequisites:** Shell01
 **Unlocks:** Text filtering
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

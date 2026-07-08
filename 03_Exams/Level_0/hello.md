@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Prints "Hello World!" followed by a newline to standard output.
 
-## Insight
+## The Insight
 This is the simplest possible exercise - just output a fixed string. The key is knowing that:
 1. You must use `write(1, ...)` not `printf`
 2. You need to count EXACTLY how many bytes to write (including the newline)
@@ -58,5 +56,9 @@ None - this is the entry point exercise
 
 ## Related Exercises
 - [[aff_first_param]] - First exercise using write with strings
+
+What does `hello` do?
+::
+Prints "Hello World!" followed by a newline to standard output.
 
 (End of file - 48 lines)

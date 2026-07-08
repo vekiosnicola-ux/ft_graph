@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - euclidean-algorithm
   - white
 Level: 3
 Topic: Algorithms
 Exercise: lcm
 ---
+
 
 
 # lcm
@@ -58,5 +59,9 @@ unsigned int lcm(unsigned int a, unsigned int b)   // Function: computes LCM of 
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `lcm` do?
+::
+Returns the Least Common Multiple of two positive integers.
 
 (End of file - total 44 lines)

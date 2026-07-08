@@ -35,3 +35,7 @@ find . -type f | wc -l
 ## Propedeuticity
 **Prerequisites:** Shell00
 **Unlocks:** File system traversal
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

@@ -35,3 +35,6 @@ checked with:
     printf("%d %d\n", c,d);
 */
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

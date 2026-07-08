@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Takes 3 arguments: a string, a character to find, and a character to replace. Replaces ALL occurrences of the find character with the replace character in the string, then prints the result followed by a newline.
 
-## Insight
+## The Insight
 This is a direct application of the "Invisible Skeleton" with a conditional action inside the loop. The key insight is:
 1. You iterate through each character of the string
 2. If the current character matches the "find" character, you print the "replace" character instead
@@ -98,5 +96,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[ulstr]] - Character transformation in strings
 - [[rot_13]] - Similar string iteration with character mapping
+
+What does `search_and_replace` do?
+::
+Takes 3 arguments: a string, a character to find, and a character to replace. Replaces ALL occurrences of the find character with the replace character in the string, then prints the result followed by a newline.
 
 (End of file - 91 lines)

@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: ft_strcspn
 ---
+
 
 
 # ft_strcspn
@@ -68,5 +69,9 @@ return i;                                          // Return length (all chars w
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_strcspn` do?
+::
+Returns the length of the initial segment of s1 that contains NO characters from s2. (Complementary to ft_strspn.)
 
 (End of file - total 72 lines)

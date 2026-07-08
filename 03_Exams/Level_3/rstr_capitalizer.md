@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - word-capitalization
   - white
 Level: 3
 Topic: String Manipulation
 Exercise: rstr_capitalizer
 ---
+
 
 
 # rstr_capitalizer
@@ -73,5 +74,9 @@ while (str[i])                                   // Loop until null terminator
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `rstr_capitalizer` do?
+::
+Capitalizes the LAST letter of every word, lowercases everything else. Words counted from the END.
 
 (End of file - total 51 lines)

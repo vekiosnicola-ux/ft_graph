@@ -1,8 +1,9 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - linked-list
   - white
 ---
+
 
 
 # ft_list_foreach
@@ -51,3 +52,8 @@ void ft_list_foreach(t_list *begin_list, void (*f)(void *))
 - [[ft_list_remove_if]] - list removal
 - [[sort_list]] - list sorting
 - EXAMS INDEX|Exam INDEX
+
+
+What does `ft_list_foreach` do?
+::
+Applies a function f to the data of each node in a linked list.

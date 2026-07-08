@@ -1,16 +1,12 @@
 ---
-tags: []
+tags: [Tracking, brown]
 date: 2026-03-29
 status: complete
 ---
 # Progress Dashboard
 
----
-tags: [Tracking, brown]
----
-
 ## Navigation
-← [[C11_Index|Back to Home]] | 05_Tracking/INDEX|Tracking INDEX
+← [[INDEX|Back to Home]] | [[05_Tracking_Index|Tracking INDEX]]
 
 ## Overview
 ```dataview

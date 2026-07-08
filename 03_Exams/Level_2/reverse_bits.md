@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: Bit Manipulation
 Exercise: reverse_bits
 ---
+
 
 
 # reverse_bits
@@ -67,5 +68,9 @@ unsigned char reverse_bits(unsigned char byte)  // Function: takes byte, returns
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `reverse_bits` do?
+::
+Reverses all 8 bits of a byte. Bit 0 becomes bit 7, bit 1 becomes bit 6, etc.
 
 (End of file - total 69 lines)

@@ -128,3 +128,7 @@ status: draft | review | complete
 - Do NOT create notes that duplicate existing content
 - Do NOT use Tailwind, HTML, or any non-standard markdown
 - Do NOT rename INDEX.md at the vault root
+
+
+---
+← [[00_CONTROL_Index|Back to 00_CONTROL Index]]

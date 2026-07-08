@@ -16,3 +16,6 @@ int main(void) {
     printf("%d\n", f(0b10101));
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

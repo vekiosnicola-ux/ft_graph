@@ -71,3 +71,6 @@ int main(){
 
 */
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

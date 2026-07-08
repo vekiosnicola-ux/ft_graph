@@ -57,3 +57,7 @@ int ft_any(char **tab, int length, int (*f)(char*))  // Checks if ANY element sa
 ## Related Concepts
 - 01_Concepts/functionPointers|Function Pointers
 - 01_Concepts/arrays|Arrays
+
+
+---
+← [[C11_Index|Back to C11 Index]]

@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstnew
 
-## Concept
+## What it does
 Creates a new list element by allocating memory and initializing its fields.
 
 ## Function Signature

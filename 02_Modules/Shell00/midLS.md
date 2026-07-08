@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -27,6 +27,15 @@ ls -m -p
 | `-m` | Comma-separated list |
 | `-p` | Add `/` to directory names |
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `ls` | Command to list directory contents |
+| 2 | `-m` | Fill width with a comma separated list of entries |
+| 3 | `-p` | Append a character `/` to directories to distinguish them |
+
 ## Common Traps
 - ❌ Using `-1` (one per line) which conflicts with `-m`
 - ❌ Forgetting `-p` and missing directory markers
@@ -39,3 +48,7 @@ ls -m -p
 ## Propedeuticity
 **Prerequisites:** Basic shell navigation
 **Unlocks:** More complex ls combinations
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

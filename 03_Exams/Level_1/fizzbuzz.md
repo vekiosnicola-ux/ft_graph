@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,9 +7,7 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Prints numbers from 1 to 100, but:
@@ -18,7 +16,7 @@ Prints numbers from 1 to 100, but:
 - For multiples of both 3 and 5 (i.e., multiples of 15), prints "fizzbuzz"
 - Each output is followed by a newline
 
-## Insight
+## The Insight
 This teaches you how to handle multiple conditions and modular arithmetic. The key insight is:
 1. Check for the most specific condition first (divisible by both 3 and 5 → divisible by 15)
 2. Then check for the individual conditions (divisible by 3, divisible by 5)
@@ -133,5 +131,9 @@ int main(void)            // Main takes no arguments
 ## Related Exercises
 - [[ft_print_numbers]] - Simple number iteration
 - [[ft_countdown]] - Counting down numbers
+
+What does `fizzbuzz` do?
+::
+Prints numbers from 1 to 100, but:
 
 (End of file - 124 lines)

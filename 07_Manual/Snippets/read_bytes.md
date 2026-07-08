@@ -27,3 +27,6 @@ int main(void) {
     printf("%s\n", temp);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

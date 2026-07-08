@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -30,6 +30,15 @@ Output:
   > line      : line exists only in file2
   < line      : line exists only in file1
 ```
+
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `diff` | Command used to compare two files line by line |
+| 2 | `[options]` | Optional flags (like `-u` for unified format or `-r` for recursive) |
+| 3 | `file1 file2` | The two files being compared. Diff outputs the steps needed to turn file1 into file2 |
 
 ## Common Traps
 - ❌ Using `ln` instead of `cp` (symlinks point to same inode)

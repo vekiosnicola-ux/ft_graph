@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - reverse-order
   - white
 Level: 3
 Topic: Memory Management
 Exercise: ft_rrange
 ---
+
 
 
 # ft_rrange
@@ -73,5 +74,9 @@ int *ft_rrange(int start, int end)              // Function: takes start and end
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_rrange` do?
+::
+Like ft_range but fills the array in REVERSE order. If `start=1`, `end=3`, array = `[3, 2, 1]`.
 
 (End of file - total 50 lines)

@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstmap
 
-## Concept
+## What it does
 Creates a new list by applying function `f` to the content of each element. Uses `del` to free memory if allocation fails.
 
 ## Function Signature

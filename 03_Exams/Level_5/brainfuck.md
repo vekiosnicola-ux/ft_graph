@@ -1,9 +1,10 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - interpreter
   - recursion
   - white
 ---
+
 
 
 # brainfuck
@@ -101,4 +102,9 @@ void brainfuck(char *s){
 ## Related
 - [[rpn_calc]] - stack-based parsing
 - [[flood_fill]] - recursive algorithm
-- EXAMS INDEX|Exam INDEX
+- [[03_Exams_Index|Exams INDEX]]
+
+
+What does `brainfuck` do?
+::
+Interpreter for Brainfuck language. Uses 2048-byte array. Commands: > < + - . , [ ]

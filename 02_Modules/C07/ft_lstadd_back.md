@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstadd_back
 
-## Concept
+## What it does
 Adds a new element to the end of a linked list.
 
 ## Function Signature

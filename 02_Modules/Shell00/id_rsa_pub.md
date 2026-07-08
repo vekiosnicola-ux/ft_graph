@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -31,6 +31,16 @@ cp ~/.ssh/id_rsa.pub id_rsa_pub
 | Private (`id_rsa`) | `~/.ssh/` | ❌ NEVER |
 | Public (`id_rsa.pub`) | `~/.ssh/` | ✅ Yes |
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `ssh-keygen` | Command to generate, manage, and convert authentication keys for ssh |
+| 2 | `-t rsa` | Specifies the type of key to create (RSA algorithm) |
+| 3 | `-b 4096` | Specifies the number of bits in the key (4096 is highly secure) |
+| 4 | `-C "email"` | Provides a comment (usually an email) to identify the key |
+
 ## Common Traps
 - ❌ Sharing the private key instead of public
 - ❌ Not using a strong passphrase
@@ -43,3 +53,7 @@ cp ~/.ssh/id_rsa.pub id_rsa_pub
 ## Propedeuticity
 **Prerequisites:** None
 **Unlocks:** Git clone with SSH, server access
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

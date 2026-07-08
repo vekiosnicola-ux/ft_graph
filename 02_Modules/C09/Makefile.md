@@ -1,13 +1,9 @@
 ---
-tags: [flashcard]
+tags: [C09, magenta, flashcard]
 date: 2026-03-29
 status: complete
 ---
 # Makefile
-
----
-tags: [C09, magenta]
----
 
 ## Navigation
 ← [[ft_putchar|ft_putchar]] | [[libft|Next: libft →]]

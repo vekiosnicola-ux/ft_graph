@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstclear
 
-## Concept
+## What it does
 Deletes and frees all elements of the list using the `del` function, and sets the list pointer to NULL.
 
 ## Function Signature

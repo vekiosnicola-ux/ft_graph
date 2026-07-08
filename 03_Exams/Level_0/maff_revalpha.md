@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Prints the reverse alphabet, alternating case: `ZyXwVuTsRqPoNmLkJiHgFeDcBa`
 
-## Insight
+## The Insight
 This combines reverse iteration with alternating case. The key insight is:
 1. Start at 'z' and go backwards to 'a'
 2. Alternate case based on position (even/odd)
@@ -89,5 +87,9 @@ void maff_revalpha(void)   // Function takes no parameters
 
 ## Related Exercises
 - [[maff_alpha]] - Same but forward: aBcDeFgHiJkLmNoPqRsTuVwXyZ
+
+What does `maff_revalpha` do?
+::
+Prints the reverse alphabet, alternating case: `ZyXwVuTsRqPoNmLkJiHgFeDcBa`
 
 (End of file - 78 lines)

@@ -89,3 +89,7 @@ FROM "01_Concepts"
 WHERE contains(file.name, <% tp.system.prompt("Topic", "pointers") %>)
 LIMIT 5
 ```
+
+
+---
+← [[05_Tracking_Index|Back to 05_Tracking Index]]

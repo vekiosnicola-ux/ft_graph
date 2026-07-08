@@ -36,3 +36,7 @@ ifconfig | grep 'ether ' | awk '{print $2}'
 ## Propedeuticity
 **Prerequisites:** Shell00, basic grep/awk
 **Unlocks:** Network diagnostics
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

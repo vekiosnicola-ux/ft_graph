@@ -13,13 +13,13 @@ status: complete
 
 | Task | Agent | Target | Status | Files |
 |------|-------|--------|--------|-------|
-| Exam Level 0-1 | @exam-swarm-1 | `/03_Exams/Level_0/`, `/03_Exams/Level_1/` | 🔴 PENDING | ~25 |
-| Exam Level 2-3 | @exam-swarm-2 | `/03_Exams/Level_2/`, `/03_Exams/Level_3/` | 🔴 PENDING | ~30 |
-| Exam Level 4-5 | @exam-swarm-3 | `/03_Exams/Level_4/`, `/03_Exams/Level_5/` | ✅ COMPLETE | 15 |
-| C12 Code Blocks | @c12-swarm | `/02_Modules/C12/` | 🔴 PENDING | 10 |
-| C09 Libft | @c09-swarm | `/02_Modules/C09/ex00-09/` | 🔴 PENDING | 10 |
-| Rush 02 | @rush-swarm | `/04_Projects/Rush02/` | 🔴 PENDING | 5-10 |
-| Wiki-Link Audit | @audit-swarm | Entire vault | 🔴 PENDING | 267 |
+| Exam Level 0-1 | @exam-swarm-1 | `/03_Exams/Level_0/`, `/03_Exams/Level_1/` | ✅ COMPLETE | 5 stubs filled |
+| Exam Level 2-3 | @exam-swarm-2 | `/03_Exams/Level_2/`, `/03_Exams/Level_3/` | ✅ COMPLETE | 4 stubs filled |
+| Exam Level 4-5 | @exam-swarm-3 | `/03_Exams/Level_4/`, `/03_Exams/Level_5/` | ✅ COMPLETE | 3 stubs + 15 existing |
+| C12 Code Blocks | @c12-swarm | `/02_Modules/C12/` | ✅ COMPLETE | 11 files (code + pedagogy) |
+| C09 Libft | @c09-swarm | `/02_Modules/C09/ex00-09/` | ✅ COMPLETE | 10 files (6 new + 4 existing) |
+| Rush 02 | @rush-swarm | `/04_Projects/Rush02/` | 🟡 PARTIAL | Defense Guide done |
+| Wiki-Link Audit | @audit-swarm | Entire vault | ✅ COMPLETE | 50 snippets fixed + frontmatter fixes |
 
 ## Completion Criteria
 
@@ -136,3 +136,7 @@ Each swarm must produce:
 2. Verify color tags in frontmatter
 3. Validate flashcard syntax
 4. Generate connectivity report
+
+
+---
+← [[00_CONTROL_Index|Back to 00_CONTROL Index]]

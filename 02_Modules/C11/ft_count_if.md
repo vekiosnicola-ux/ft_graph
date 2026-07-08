@@ -61,3 +61,7 @@ int ft_count_if(char **tab, int length, int (*f)(char*))  // Counts elements pas
 
 ## Related Concepts
 - 01_Concepts/functionPointers|Function Pointers
+
+
+---
+← [[C11_Index|Back to C11 Index]]

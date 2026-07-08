@@ -1,10 +1,11 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
   - calculator
 Level: 2
 Topic: Algorithms
 Exercise: do_op
 ---
+
 
 
 # do_op
@@ -90,5 +91,9 @@ ft_putnbr(r);                                     // Print the computed result a
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `do_op` do?
+::
+Calculator taking "value1 operator value2" as command-line arguments and prints the result. Supports operators: `+ - * / %`
 
 (End of file - total 93 lines)

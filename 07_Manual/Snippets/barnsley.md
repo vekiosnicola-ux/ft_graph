@@ -112,3 +112,6 @@ const Uint8* keystates = SDL_GetKeyboardState(NULL);
 if (keystates[SDL_SCANCODE_SPACE])
 https://wiki.libsdl.org/SDLScancodeLookup */
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

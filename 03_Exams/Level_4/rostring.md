@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - string
   - manipulation
   - white
 ---
+
 
 
 # rostring
@@ -110,3 +111,8 @@ void rostring(char *str)
 - [[rev_wstr]] - reverse words
 - [[ft_split]] - split string
 - EXAMS INDEX|Exam INDEX
+
+
+What does `rostring` do?
+::
+Moves first word to end of string, prints result with single spaces between words.

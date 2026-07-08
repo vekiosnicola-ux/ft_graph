@@ -27,3 +27,6 @@ int main(int argc, char **argv) {
     fclose(stream);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

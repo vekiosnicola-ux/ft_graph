@@ -61,3 +61,6 @@ perror("error:");
     exit(EXIT_FAILURE);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

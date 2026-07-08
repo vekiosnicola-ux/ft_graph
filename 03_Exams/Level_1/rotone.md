@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Shifts each letter in the string by 1 position in the alphabet (a->b, b->c, ..., z->a, preserving case). Non-alphabetic characters are unchanged.
 
-## Insight
+## The Insight
 This is similar to rot_13 but with a shift of 1. The key insight is:
 1. For each character, check if it's a letter
 2. If uppercase (A-Z): add 1, if result > 'Z', subtract 26 to wrap to 'A'
@@ -131,5 +129,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[rot_13]] - Shift by 13 instead of 1
 - [[ulstr]] - Case toggling
+
+What does `rotone` do?
+::
+Shifts each letter in the string by 1 position in the alphabet (a->b, b->c, ..., z->a, preserving case). Non-alphabetic characters are unchanged.
 
 (End of file - 122 lines)

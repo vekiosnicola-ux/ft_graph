@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_1, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,14 +7,12 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 1
 
----
-tags: [Exams, Level_1, magenta]
----
+
 
 ## What it does
 Displays a string passed as argument in reverse order, followed by a newline.
 
-## Insight
+## The Insight
 This teaches you how to traverse a string backwards. The key insight is:
 1. First, find the end of the string (the null terminator)
 2. Then, work backwards from the last character to the first
@@ -106,5 +104,9 @@ int main(int ac, char **av)  // Main receives argc and argv
 ## Related Exercises
 - [[first_word]] - String parsing in forward direction
 - [[ft_strlen]] - String length calculation
+
+What does `rev_print` do?
+::
+Displays a string passed as argument in reverse order, followed by a newline.
 
 (End of file - 97 lines)

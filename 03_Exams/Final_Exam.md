@@ -1,15 +1,11 @@
 ---
-tags: [exam, flashcard]
+tags: [exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
 # Final Exam - Overview
 
----
-tags:
-  - 
-  - white
----
+
 
 ## Structure
 - **Duration:** 4 hours
@@ -75,3 +71,7 @@ TABLE file.name as Exercise
 FROM "03_Exams/Level_5"
 SORT file.name ASC
 ```
+
+
+## Common Traps
+- ❌ [Add traps here]

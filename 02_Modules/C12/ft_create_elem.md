@@ -1,13 +1,9 @@
 ---
-tags: [flashcard]
+tags: [C12, red, flashcard]
 date: 2026-03-29
 status: complete
 ---
 # ft_create_elem
-
----
-tags: [C12, red]
----
 
 ## Navigation
 ← C12_INDEX|C12 INDEX | [[ft_list_push_front|Next: ft_list_push_front →]]

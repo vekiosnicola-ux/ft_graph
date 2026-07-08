@@ -104,3 +104,6 @@ int *create_and_print_int_array(int len) {
     return n;
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

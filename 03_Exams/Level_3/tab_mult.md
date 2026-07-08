@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - formatting
   - white
 Level: 3
 Topic: Algorithms
 Exercise: tab_mult
 ---
+
 
 
 # tab_mult
@@ -74,5 +75,9 @@ int main(int ac, char **av)                      // Main: argument count and arg
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `tab_mult` do?
+::
+Prints multiplication table from 1 to 9 for a given number. Format: `"i x n = result"` followed by newline.
 
 (End of file - total 73 lines)

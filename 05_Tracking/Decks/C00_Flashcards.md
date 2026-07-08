@@ -96,3 +96,7 @@ Cosa richiede il secondo parametro di write?::Un ==indirizzo di memoria== da cui
 What is the loop condition for ft_print_reverse_alphabet?::`while (letter >= 'a')`
 
 Why does decrementing a char work for reverse alphabet?::I caratteri in C sono rappresentati come ==interi ASCII==, quindi decrementare muove attraverso l'alfabeto
+
+
+---
+← [[Decks_Index|Back to Decks Index]]

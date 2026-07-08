@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -62,3 +62,7 @@ int *ft_range(int start, int end)
 ## Related
 - ex01 ft_ultimate_range
 - ex05 ft_split
+
+
+---
+← [[C06_Index|Back to C06 Index]]

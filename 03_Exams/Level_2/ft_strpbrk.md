@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: String Manipulation
 Exercise: ft_strpbrk
 ---
+
 
 
 # ft_strpbrk
@@ -68,5 +69,9 @@ return NULL;                                       // Return NULL if no match fo
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_strpbrk` do?
+::
+Returns pointer to the first char in s1 that matches any char in s2. Returns NULL if none found.
 
 (End of file - total 72 lines)

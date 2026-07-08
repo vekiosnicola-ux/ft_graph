@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: Algorithms
 Exercise: is_power_of_2
 ---
+
 
 
 # is_power_of_2
@@ -53,5 +54,9 @@ For non-powers (e.g., 6 = 0b0110):
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `is_power_of_2` do?
+::
+Returns 1 if `n` is a power of 2, otherwise returns 0.
 
 (End of file - total 58 lines)

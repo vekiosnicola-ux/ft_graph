@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - string
   - manipulation
   - white
 ---
+
 
 
 # rev_wstr
@@ -94,3 +95,8 @@ void rev_wstr(char *str)
 - [[rostring]] - rotate words
 - [[ft_split]] - split string
 - EXAMS INDEX|Exam INDEX
+
+
+What does `rev_wstr` do?
+::
+Reverses words in a string. "Hello World" -> "World Hello"

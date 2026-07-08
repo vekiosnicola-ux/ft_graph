@@ -90,3 +90,7 @@ void digit_to_word(int d) {
 - ❌ Forgetting break in switch (causes fall-through to next case)
 - ❌ Using switch with non-constant or non-discrete values (use if-else instead)
 - ❌ Confusing `else if` as new statement (it's else + if combined)
+
+
+---
+← [[01_Concepts_Index|Back to 01_Concepts Index]]

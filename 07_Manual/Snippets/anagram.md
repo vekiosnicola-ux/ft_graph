@@ -23,3 +23,6 @@ int main(int c)
         puts(i?"false":"true");
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

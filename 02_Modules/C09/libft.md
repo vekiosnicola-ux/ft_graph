@@ -1,13 +1,9 @@
 ---
-tags: [flashcard]
+tags: [C09, magenta, flashcard]
 date: 2026-03-29
 status: complete
 ---
 # libft
-
----
-tags: [C09, magenta]
----
 
 ## Navigation
 ← [[Makefile|Makefile]] | C09_INDEX|C09 INDEX →

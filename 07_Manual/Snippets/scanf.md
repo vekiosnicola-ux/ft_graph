@@ -20,3 +20,6 @@ int main(void) {
     printf("%c%c%c",c[0],c[1],c[2]); // enable stack smashing
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

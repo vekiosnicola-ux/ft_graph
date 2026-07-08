@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -93,3 +93,7 @@ char *ft_strtrim(char const *s1, char const *set)
 ## Related
 - ex03 ft_strjoin
 - ex05 ft_split
+
+
+---
+← [[C06_Index|Back to C06 Index]]

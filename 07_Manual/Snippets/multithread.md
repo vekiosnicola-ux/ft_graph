@@ -110,3 +110,6 @@ void func(void * ptr) {
 
 */
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

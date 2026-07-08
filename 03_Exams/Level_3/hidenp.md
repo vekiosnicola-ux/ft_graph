@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - subsequence
   - white
 Level: 3
 Topic: String Manipulation
 Exercise: hidenp
 ---
+
 
 
 # hidenp
@@ -67,5 +68,9 @@ int hidenp(char *s1, char *s2)                   // Function: takes two strings,
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `hidenp` do?
+::
+Returns 1 if ALL characters of str1 appear IN ORDER in str2 (can be separated by other chars). Else returns 0.
 
 (End of file - total 49 lines)

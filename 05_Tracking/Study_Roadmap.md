@@ -1,16 +1,12 @@
 ---
-tags: [flashcard]
+tags: [Tracking, brown, flashcard]
 date: 2026-03-29
 status: complete
 ---
 # Study Roadmap
 
----
-tags: [Tracking, brown]
----
-
 ## Navigation
-← [[C11_Index|Back to Home]] | 05_Tracking/INDEX|Tracking INDEX
+← [[INDEX|Back to Home]] | [[05_Tracking_Index|Tracking INDEX]]
 
 ## Week 1: Foundations
 **Goal:** Master Shell basics and C fundamentals

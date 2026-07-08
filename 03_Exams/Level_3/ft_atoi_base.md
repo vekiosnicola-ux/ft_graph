@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - string-parsing
   - white
 Level: 3
 Topic: Algorithms
 Exercise: ft_atoi_base
 ---
+
 
 
 # ft_atoi_base
@@ -96,5 +97,9 @@ int ft_atoi_base(char *str, int base)          // Function: takes string and bas
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `ft_atoi_base` do?
+::
+Converts a string in a custom base (2-16) to an integer. Supports bases 2 through 16.
 
 (End of file - total 52 lines)

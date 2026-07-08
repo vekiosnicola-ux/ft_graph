@@ -55,3 +55,6 @@ int main( void )
     close( fd );
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

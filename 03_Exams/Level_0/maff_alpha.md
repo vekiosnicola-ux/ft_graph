@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Prints the alphabet, alternating case: `aBcDeFgHiJkLmNoPqRsTuVwXyZ`
 
-## Insight
+## The Insight
 This teaches you how to alternate between two states (lowercase/uppercase) while iterating. The key insight is using a counter to determine whether to output lowercase or uppercase for each letter.
 
 The even/odd determination uses `i % 2 == 0` where position 0 is even (lowercase) and position 1 is odd (uppercase). The ASCII difference between uppercase and lowercase letters is 32.
@@ -85,5 +83,9 @@ void maff_alpha(void)      // Function takes no parameters
 
 ## Related Exercises
 - [[maff_revalpha]] - Same pattern but reverse: ZyXwVuTsRqPoNmLkJiHgFeDcBa
+
+What does `maff_alpha` do?
+::
+Prints the alphabet, alternating case: `aBcDeFgHiJkLmNoPqRsTuVwXyZ`
 
 (End of file - 75 lines)

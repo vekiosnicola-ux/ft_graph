@@ -1,9 +1,10 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - bitwise
   - argv
   - white
 ---
+
 
 
 # options
@@ -75,3 +76,8 @@ int main(int ac,char**av){
 - [[print_memory]] - hex dump
 - [[brainfuck]] - byte manipulation
 - EXAMS INDEX|Exam INDEX
+
+
+What does `options` do?
+::
+Parses command line options like "-abc" and prints 32-bit representation. Each bit = letter position.

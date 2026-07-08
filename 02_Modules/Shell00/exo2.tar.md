@@ -1,5 +1,5 @@
 ---
-tags: [Shell00]
+tags: [Shell00, magenta]
 ---
 
 
@@ -34,6 +34,15 @@ tar -xf exo2.tar
 | `-f` | Specify filename |
 | `-v` | Verbose output |
 
+
+
+## Line-by-Line Translation
+| Line | Code | Translation |
+|------|------|-------------|
+| 1 | `tar` | Tape Archive utility used for manipulating archive files |
+| 2 | `-t` | Flag to 'list' the contents of the archive (table of contents) |
+| 3 | `-f exo2.tar` | Flag to specify the 'file' name of the archive (`exo2.tar`) |
+
 ## Common Traps
 - ❌ Forgetting `-f` flag when creating/extracting
 - ❌ Not checking what's inside before extracting
@@ -46,3 +55,7 @@ tar -xf exo2.tar
 ## Propedeuticity
 **Prerequisites:** Basic shell navigation
 **Unlocks:** Working with compressed archives
+
+
+---
+← [[Shell00_Index|Back to Shell00 Index]]

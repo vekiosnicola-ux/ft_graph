@@ -1,10 +1,11 @@
 ---
-tags: [Level_5, exam]
+tags: [Level_5, exam, flashcard, white]
   - string
   - conversion
   - bases
   - white
 ---
+
 
 
 # ft_itoa_base
@@ -70,3 +71,8 @@ char *ft_itoa_base(int value, int base){
 - [[ft_itoa]] - decimal conversion
 - [[print_memory]] - hex dump
 - EXAMS INDEX|Exam INDEX
+
+
+What does `ft_itoa_base` do?
+::
+Converts integer to string in custom base (2-16). Like ft_itoa but with custom base. LEVEL 5 VERSION requires shortest solution.

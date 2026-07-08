@@ -33,3 +33,6 @@ int main(void) {
     return 0;
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

@@ -1,10 +1,11 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
   - memorization
 Level: 2
 Topic: Algorithms
 Exercise: union
 ---
+
 
 
 # union
@@ -84,5 +85,9 @@ write(1, "\n", 1);                              // Print newline at end of outpu
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `union` do?
+::
+Prints all DIFFERENT characters that appear in EITHER str1 or str2, with no duplicates, followed by newline.
 
 (End of file - total 76 lines)

@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstsize
 
-## Concept
+## What it does
 Counts the number of elements in a linked list.
 
 ## Function Signature

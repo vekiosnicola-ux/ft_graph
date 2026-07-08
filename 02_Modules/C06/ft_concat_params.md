@@ -1,5 +1,5 @@
 ---
-tags: [C06]
+tags: [C06, green]
 ---
 
 
@@ -84,3 +84,7 @@ char *ft_concat_params(int argc, char **argv)
 
 ## Related
 - ex03 ft_strjoin
+
+
+---
+← [[C06_Index|Back to C06 Index]]

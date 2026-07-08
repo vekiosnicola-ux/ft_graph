@@ -1,9 +1,10 @@
 ---
-tags: [Level_2, exam]
+tags: [Level_2, exam, flashcard, white]
 Level: 2
 Topic: Bit Manipulation
 Exercise: swap_bits
 ---
+
 
 
 # swap_bits
@@ -45,5 +46,9 @@ unsigned char swap_bits(unsigned char octet)    // Function: takes byte, returns
 
 ## Wiki Links
 03_Exams/Level_2_INDEX|Level 2 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `swap_bits` do?
+::
+Swaps the high nibble (bits 4-7) with the low nibble (bits 0-3) of a byte.
 
 (End of file - total 59 lines)

@@ -36,3 +36,7 @@ find . -type f -name '*.sh' | sed 's/\.sh$//' | sort
 ## Propedeuticity
 **Prerequisites:** Shell00, basic find usage
 **Unlocks:** Complex file searching
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

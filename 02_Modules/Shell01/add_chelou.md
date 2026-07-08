@@ -29,3 +29,7 @@ Involves number manipulation with unexpected operations or base conversions.
 ## Propedeuticity
 **Prerequisites:** Shell01
 **Unlocks:** Arithmetic in shell
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

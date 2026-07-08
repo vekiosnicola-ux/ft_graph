@@ -18,3 +18,6 @@ int main(void) {
     printf("%d %d\n", a, b);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

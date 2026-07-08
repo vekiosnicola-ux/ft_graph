@@ -51,3 +51,7 @@ void ft_foreach(int *tab, int length, void (*f)(int))  // Applies function f to 
 
 ## Related Concepts
 - 01_Concepts/functionPointers|Function Pointers
+
+
+---
+← [[C11_Index|Back to C11 Index]]

@@ -1,11 +1,12 @@
 ---
-tags: [Level_3, exam]
+tags: [Level_3, exam, flashcard, white]
   - recursion
   - white
 Level: 3
 Topic: Algorithms
 Exercise: print_hex
 ---
+
 
 
 # print_hex
@@ -70,5 +71,9 @@ int main(int ac, char **av)                      // Main: argument count and arg
 
 ## Wiki Links
 03_Exams/Level_3_INDEX|Level 3 INDEX | EXAMS INDEX|Exams INDEX
+
+What does `print_hex` do?
+::
+Converts a decimal number (as string) to hexadecimal and prints it.
 
 (End of file - total 47 lines)

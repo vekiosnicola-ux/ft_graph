@@ -15,3 +15,6 @@ int main(void) {
     f(8);
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

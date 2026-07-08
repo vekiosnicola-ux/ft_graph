@@ -1,11 +1,11 @@
 ---
-tags: [C07]
+tags: [C07, green]
 ---
 
 
 # ft_lstdelone
 
-## Concept
+## What it does
 Frees the memory of a single list element's content using a deletion function, then frees the element itself.
 
 ## Function Signature

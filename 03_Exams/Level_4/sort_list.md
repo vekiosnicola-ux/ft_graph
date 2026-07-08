@@ -1,9 +1,10 @@
 ---
-tags: [Level_4, exam]
+tags: [Level_4, exam, flashcard, white]
   - linked-list
   - sorting
   - white
 ---
+
 
 
 # sort_list
@@ -82,3 +83,8 @@ void sort_list(t_list **begin_list, int (*cmp)())
 - [[sort_int_tab]] - array sorting
 - [[ft_list_remove_if]] - list removal
 - EXAMS INDEX|Exam INDEX
+
+
+What does `sort_list` do?
+::
+Sorts linked list in ascending order using bubble sort logic (swap data, not pointers).

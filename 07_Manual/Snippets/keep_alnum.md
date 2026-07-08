@@ -194,3 +194,6 @@ int main(int ac, char **av) {
     return 0;
 }
 ```
+
+---
+← [[Snippets_Index|Back to Snippets]]

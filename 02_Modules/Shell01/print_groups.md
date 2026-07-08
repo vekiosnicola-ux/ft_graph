@@ -35,3 +35,7 @@ id -nG "$FT_USER" | tr ' ' ','
 ## Propedeuticity
 **Prerequisites:** Shell00
 **Unlocks:** User management understanding
+
+
+---
+← [[Shell01_Index|Back to Shell01 Index]]

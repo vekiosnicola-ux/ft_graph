@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Exams, Level_0, exam, flashcard, white]
 date: 2026-03-29
 status: complete
 ---
@@ -7,15 +7,13 @@ status: complete
 
 EXAMS INDEX|Exam INDEX | Level 0
 
----
-tags: [Exams, Level_0, magenta]
----
+
 
 
 ## What it does
 Displays the first command-line argument followed by a newline. If no arguments are provided, displays nothing.
 
-## Insight
+## The Insight
 This teaches you how to access command-line arguments in C. The key insight is understanding the argv array:
 - av[0] is the program name
 - av[1] is the first argument
@@ -90,5 +88,9 @@ int main(int ac, char **av)  // Main receives argument count and vector
 ## Related Exercises
 - [[aff_last_param]] - Access last argument instead of first
 - [[only_a]] - Similar string iteration with av[1]
+
+What does `aff_first_param` do?
+::
+Displays the first command-line argument followed by a newline. If no arguments are provided, displays nothing.
 
 (End of file - 76 lines)

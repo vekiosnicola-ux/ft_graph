@@ -72,3 +72,7 @@ int ft_is_sort(int *tab, int length, int (*f)(int, int))  // Checks if array is 
 ## Related Concepts
 - 01_Concepts/functionPointers|Function Pointers
 - 01_Concepts/sorting|Sorting Algorithms
+
+
+---
+← [[C11_Index|Back to C11 Index]]
